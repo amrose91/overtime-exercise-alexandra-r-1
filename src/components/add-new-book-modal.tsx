@@ -216,5 +216,4 @@ const AddNewBookModal = ({ addNewBookEvent }: BookProps) => {
     );
 }
 
-
 export default AddNewBookModal
